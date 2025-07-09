@@ -1,7 +1,8 @@
+package arpitaa;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class GradeTracker {
+public class StudentGradeTracker {
     static ArrayList<String> students = new ArrayList<>();
     static ArrayList<Double> grades = new ArrayList<>();
     static Scanner scanner = new Scanner(System.in);
